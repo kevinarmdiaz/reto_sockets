@@ -108,7 +108,6 @@ _Verificar la consola de los 3 proyectos para verificar su correcta ejecución_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Tornado](https://www.tornadoweb.org/en/stable/) - 
 * [Django](https://www.djangoproject.com/) - 
